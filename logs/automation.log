@@ -1,0 +1,132 @@
+2019-08-31 17:54:20 INFO  TestBase:45 - Opened page with url https://dou.ua/
+2019-08-31 17:54:22 INFO  MainPage:24 - Text entered to search input 'java'
+2019-08-31 17:54:23 INFO  TestBase:45 - Opened page with url https://dou.ua/
+2019-08-31 17:54:24 INFO  MainPage:24 - Text entered to search input 'python'
+2019-09-01 16:13:33 INFO  TestBase:45 - Opened page with url https://rozetka.com.ua/
+2019-09-01 16:13:37 INFO  MainPage:24 - Text entered to search input 'ноутбук asus'
+2019-09-01 16:13:57 INFO  TestBase:45 - Opened page with url https://rozetka.com.ua/
+2019-09-01 16:13:59 INFO  MainPage:24 - Text entered to search input '4QW16ES'
+2019-09-02 14:34:52 INFO  TestBase:45 - Opened page with url https://rozetka.com.ua/
+2019-09-02 14:38:40 INFO  TestBase:45 - Opened page with url https://rozetka.com.ua/
+2019-09-02 14:40:11 INFO  TestBase:45 - Opened page with url https://rozetka.com.ua/
+2019-09-02 14:41:00 INFO  TestBase:45 - Opened page with url https://rozetka.com.ua/
+2019-09-02 14:42:06 INFO  TestBase:45 - Opened page with url https://rozetka.com.ua/
+2019-09-02 15:00:29 INFO  TestBase:45 - Opened page with url https://rozetka.com.ua/
+2019-09-02 15:00:52 INFO  TestBase:45 - Opened page with url https://rozetka.com.ua/
+2019-09-02 15:00:56 INFO  MainPage:39 - Text entered to search input 'ноутбук asus'
+2019-09-02 15:01:17 INFO  TestBase:45 - Opened page with url https://rozetka.com.ua/
+2019-09-02 15:01:19 INFO  MainPage:39 - Text entered to search input '4QW16ES'
+2019-09-02 17:17:05 INFO  TestBase:45 - Opened page with url https://rozetka.com.ua/
+2019-09-03 18:32:35 INFO  TestBase:45 - Opened page with url https://rozetka.com.ua/
+2019-09-03 18:40:28 INFO  TestBase:45 - Opened page with url https://rozetka.com.ua/
+2019-09-03 18:49:12 INFO  TestBase:45 - Opened page with url https://rozetka.com.ua/
+2019-09-03 18:49:50 INFO  TestBase:45 - Opened page with url https://rozetka.com.ua/
+2019-09-03 20:47:22 INFO  TestBase:45 - Opened page with url https://rozetka.com.ua/
+2019-09-03 20:47:26 INFO  MainPage:50 - Text entered to search input 'ноутбук asus'
+2019-09-03 20:47:49 INFO  TestBase:45 - Opened page with url https://rozetka.com.ua/
+2019-09-03 20:47:51 INFO  MainPage:50 - Text entered to search input '4QW16ES'
+2019-09-03 20:50:41 INFO  TestBase:45 - Opened page with url https://rozetka.com.ua/
+2019-09-03 21:07:59 INFO  TestBase:45 - Opened page with url https://rozetka.com.ua/
+2019-09-03 21:08:53 INFO  TestBase:45 - Opened page with url https://rozetka.com.ua/
+2019-09-03 21:13:04 INFO  TestBase:45 - Opened page with url https://rozetka.com.ua/
+2019-09-03 21:16:24 INFO  TestBase:45 - Opened page with url https://rozetka.com.ua/
+2019-09-03 21:17:04 INFO  TestBase:45 - Opened page with url https://rozetka.com.ua/
+2019-09-04 17:03:01 INFO  TestBase:45 - Opened page with url https://rozetka.com.ua/
+2019-09-04 17:04:08 INFO  TestBase:45 - Opened page with url https://rozetka.com.ua/
+2019-09-04 17:06:46 INFO  TestBase:45 - Opened page with url https://rozetka.com.ua/
+2019-09-04 17:14:21 INFO  TestBase:45 - Opened page with url https://rozetka.com.ua/
+2019-09-06 15:59:21 INFO  TestBase:45 - Opened page with url https://rozetka.com.ua/
+2019-09-06 16:01:42 INFO  TestBase:45 - Opened page with url https://rozetka.com.ua/
+2019-09-06 16:09:51 INFO  TestBase:45 - Opened page with url https://rozetka.com.ua/
+2019-09-06 16:38:54 INFO  TestBase:45 - Opened page with url https://rozetka.com.ua/
+2019-09-06 16:41:15 INFO  TestBase:45 - Opened page with url https://rozetka.com.ua/
+2019-09-06 16:43:14 INFO  TestBase:46 - Opened page with url https://rozetka.com.ua/
+2019-09-06 16:52:13 INFO  TestBase:46 - Opened page with url https://rozetka.com.ua/
+2019-09-06 16:58:55 INFO  TestBase:46 - Opened page with url https://rozetka.com.ua/
+2019-09-06 17:00:04 INFO  TestBase:46 - Opened page with url https://rozetka.com.ua/
+2019-09-08 21:26:47 INFO  TestBase:46 - Opened page with url https://rozetka.com.ua/
+2019-09-08 21:27:55 INFO  TestBase:46 - Opened page with url https://rozetka.com.ua/
+2019-09-08 21:35:49 INFO  TestBase:46 - Opened page with url https://rozetka.com.ua/
+2019-09-08 21:36:28 INFO  TestBase:46 - Opened page with url https://rozetka.com.ua/
+2019-09-08 21:37:48 INFO  TestBase:46 - Opened page with url https://rozetka.com.ua/
+2019-09-09 10:13:09 INFO  TestBase:46 - Opened page with url https://rozetka.com.ua/
+2019-09-09 10:13:57 INFO  TestBase:46 - Opened page with url https://rozetka.com.ua/
+2019-09-10 16:53:16 INFO  TestBase:49 - Opened page with url https://rozetka.com.ua/
+2019-09-10 16:56:13 INFO  TestBase:49 - Opened page with url https://rozetka.com.ua/
+2019-09-10 16:56:54 INFO  TestBase:49 - Opened page with url https://rozetka.com.ua/
+2019-09-10 17:04:03 INFO  TestBase:49 - Opened page with url https://rozetka.com.ua/
+2019-09-10 17:06:21 INFO  TestBase:49 - Opened page with url https://rozetka.com.ua/
+2019-09-10 17:08:40 INFO  TestBase:49 - Opened page with url https://rozetka.com.ua/
+2019-09-10 17:11:28 INFO  TestBase:49 - Opened page with url https://rozetka.com.ua/
+2019-09-10 17:22:35 INFO  TestBase:49 - Opened page with url https://rozetka.com.ua/
+2019-09-10 17:25:09 INFO  TestBase:49 - Opened page with url https://rozetka.com.ua/
+2019-09-10 17:28:06 INFO  TestBase:49 - Opened page with url https://rozetka.com.ua/
+2019-09-10 17:30:24 INFO  TestBase:49 - Opened page with url https://rozetka.com.ua/
+2019-09-10 17:31:26 INFO  TestBase:49 - Opened page with url https://rozetka.com.ua/
+2019-09-10 17:33:36 INFO  TestBase:49 - Opened page with url https://rozetka.com.ua/
+2019-09-10 17:34:51 INFO  TestBase:49 - Opened page with url https://rozetka.com.ua/
+2019-09-10 17:35:55 INFO  TestBase:49 - Opened page with url https://rozetka.com.ua/
+2019-09-10 17:37:48 INFO  TestBase:49 - Opened page with url https://rozetka.com.ua/
+2019-09-10 17:38:34 INFO  TestBase:49 - Opened page with url https://rozetka.com.ua/
+2019-09-10 17:39:14 INFO  TestBase:49 - Opened page with url https://rozetka.com.ua/
+2019-09-10 17:40:21 INFO  TestBase:49 - Opened page with url https://rozetka.com.ua/
+2019-09-10 17:42:22 INFO  TestBase:49 - Opened page with url https://rozetka.com.ua/
+2019-09-10 17:43:25 INFO  TestBase:49 - Opened page with url https://rozetka.com.ua/
+2019-09-10 17:43:53 INFO  TestBase:49 - Opened page with url https://rozetka.com.ua/
+2019-09-10 17:44:27 INFO  TestBase:49 - Opened page with url https://rozetka.com.ua/
+2019-09-10 17:46:12 INFO  TestBase:49 - Opened page with url https://rozetka.com.ua/
+2019-09-10 17:48:06 INFO  TestBase:49 - Opened page with url https://rozetka.com.ua/
+2019-09-10 17:49:42 INFO  TestBase:49 - Opened page with url https://rozetka.com.ua/
+2019-09-10 17:52:21 INFO  TestBase:49 - Opened page with url https://rozetka.com.ua/
+2019-09-10 17:53:42 INFO  TestBase:49 - Opened page with url https://rozetka.com.ua/
+2019-09-10 17:54:41 INFO  TestBase:49 - Opened page with url https://rozetka.com.ua/
+2019-09-10 18:04:29 INFO  TestBase:49 - Opened page with url https://rozetka.com.ua/
+2019-09-10 18:05:56 INFO  TestBase:49 - Opened page with url https://rozetka.com.ua/
+2019-09-10 18:06:59 INFO  TestBase:49 - Opened page with url https://rozetka.com.ua/
+2019-09-10 18:08:53 INFO  TestBase:49 - Opened page with url https://rozetka.com.ua/
+2019-09-10 18:11:38 INFO  TestBase:49 - Opened page with url https://rozetka.com.ua/
+2019-09-10 18:12:31 INFO  TestBase:49 - Opened page with url https://rozetka.com.ua/
+2019-09-10 18:13:20 INFO  TestBase:49 - Opened page with url https://rozetka.com.ua/
+2019-09-10 18:30:44 INFO  TestBase:49 - Opened page with url https://rozetka.com.ua/
+2019-09-10 18:34:53 INFO  TestBase:49 - Opened page with url https://rozetka.com.ua/
+2019-09-10 19:57:15 INFO  TestBase:49 - Opened page with url https://rozetka.com.ua/
+2019-09-10 20:01:33 INFO  TestBase:49 - Opened page with url https://rozetka.com.ua/
+2019-09-10 20:04:57 INFO  TestBase:49 - Opened page with url https://rozetka.com.ua/
+2019-09-10 20:06:38 INFO  TestBase:49 - Opened page with url https://rozetka.com.ua/
+2019-09-10 20:07:35 INFO  TestBase:49 - Opened page with url https://rozetka.com.ua/
+2019-09-10 20:08:49 INFO  TestBase:49 - Opened page with url https://rozetka.com.ua/
+2019-09-10 20:09:52 INFO  TestBase:49 - Opened page with url https://rozetka.com.ua/
+2019-09-10 20:42:24 INFO  TestBase:49 - Opened page with url https://rozetka.com.ua/
+2019-09-10 20:58:37 INFO  TestBase:49 - Opened page with url https://rozetka.com.ua/
+2019-09-16 18:44:21 INFO  TestBase:49 - Opened page with url https://rozetka.com.ua/
+2019-09-16 18:46:36 INFO  TestBase:49 - Opened page with url https://rozetka.com.ua/
+2019-09-16 18:49:16 INFO  TestBase:49 - Opened page with url https://rozetka.com.ua/
+2019-09-16 18:50:39 INFO  TestBase:49 - Opened page with url https://rozetka.com.ua/
+2019-09-16 18:53:43 INFO  TestBase:49 - Opened page with url https://rozetka.com.ua/
+2019-09-16 18:57:00 INFO  TestBase:49 - Opened page with url https://rozetka.com.ua/
+2019-09-16 18:57:39 INFO  TestBase:49 - Opened page with url https://rozetka.com.ua/
+2019-09-16 18:58:44 INFO  TestBase:49 - Opened page with url https://rozetka.com.ua/
+2019-09-16 18:59:49 INFO  TestBase:49 - Opened page with url https://rozetka.com.ua/
+2019-09-16 19:00:26 INFO  TestBase:49 - Opened page with url https://rozetka.com.ua/
+2019-09-16 19:01:16 INFO  TestBase:49 - Opened page with url https://rozetka.com.ua/
+2019-09-17 13:40:54 INFO  TestBase:49 - Opened page with url https://rozetka.com.ua/
+2019-09-17 17:50:55 INFO  TestBase:49 - Opened page with url https://rozetka.com.ua/
+2019-09-17 18:17:35 INFO  TestBase:49 - Opened page with url https://rozetka.com.ua/
+2019-09-17 18:27:53 INFO  TestBase:49 - Opened page with url https://rozetka.com.ua/
+2019-09-18 16:01:44 INFO  TestBase:49 - Opened page with url https://rozetka.com.ua/
+2019-09-18 16:13:45 INFO  TestBase:49 - Opened page with url https://rozetka.com.ua/
+2019-09-22 10:39:52 INFO  TestBase:49 - Opened page with url https://rozetka.com.ua/
+2019-09-22 11:22:44 INFO  TestBase:49 - Opened page with url https://rozetka.com.ua/
+2019-09-22 11:36:35 INFO  TestBase:49 - Opened page with url https://rozetka.com.ua/
+2019-09-22 11:58:23 INFO  TestBase:49 - Opened page with url https://rozetka.com.ua/
+2019-09-22 11:59:41 INFO  TestBase:49 - Opened page with url https://rozetka.com.ua/
+2019-09-22 12:04:52 INFO  TestBase:49 - Opened page with url https://rozetka.com.ua/
+2019-09-22 12:13:03 INFO  TestBase:51 - Opened page with url https://rozetka.com.ua/
+2019-09-22 12:17:13 INFO  MainPage:102 - Text entered to search input 'ноутбук asus'
+2019-09-22 12:17:13 INFO  MainPage:102 - Text entered to search input '4QW16ES'
+2019-09-22 12:19:35 INFO  MainPage:102 - Text entered to search input 'ноутбук asus'
+2019-09-22 12:19:35 INFO  MainPage:102 - Text entered to search input '4QW16ES'
+2019-09-22 12:40:26 INFO  MainPage:102 - Text entered to search input 'ноутбук asus'
+2019-09-22 12:40:26 INFO  MainPage:102 - Text entered to search input '4QW16ES'
+2019-09-22 12:52:03 INFO  TestBase:51 - Opened page with url https://rozetka.com.ua/
+2019-09-22 12:59:38 INFO  TestBase:52 - Opened page with url https://rozetka.com.ua/
