@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite1]">
+  <test thread-count="5" name="Regression(failed)">
+    <classes>
+      <class name="com.alevel.FBSocIconTest">
+        <methods>
+          <include name="openPage"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="closePage"/>
+          <include name="checkThatAfterClickOnFBSocIconOpensFBPage"/>
+        </methods>
+      </class> <!-- com.alevel.FBSocIconTest -->
+      <class name="com.alevel.TwitterSocIconTest">
+        <methods>
+          <include name="openPage"/>
+          <include name="setUp"/>
+          <include name="checkThatAfterClickOnTwitterSocIconOpensTwitterPage"/>
+          <include name="tearDown"/>
+          <include name="closePage"/>
+        </methods>
+      </class> <!-- com.alevel.TwitterSocIconTest -->
+      <class name="com.alevel.LoginTest">
+        <methods>
+          <include name="openPage"/>
+          <include name="checkUserLoginUsingPopUp"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="closePage"/>
+        </methods>
+      </class> <!-- com.alevel.LoginTest -->
+      <class name="com.alevel.PhonesPopupTest">
+        <methods>
+          <include name="openPage"/>
+          <include name="setUp"/>
+          <include name="checkThatPonePopupOpenedAfterClick"/>
+          <include name="tearDown"/>
+          <include name="closePage"/>
+        </methods>
+      </class> <!-- com.alevel.PhonesPopupTest -->
+      <class name="com.alevel.InstaPageTest">
+        <methods>
+          <include name="openPage"/>
+          <include name="checkThatAfterClickOnInstagramSocIconOpensInstagramPage"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="closePage"/>
+        </methods>
+      </class> <!-- com.alevel.InstaPageTest -->
+      <class name="com.alevel.LanguageSwitchTest">
+        <methods>
+          <include name="openPage"/>
+          <include name="checkThatRuLanguageIsInactiveAfterUaLanguageClick"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="closePage"/>
+        </methods>
+      </class> <!-- com.alevel.LanguageSwitchTest -->
+      <class name="com.alevel.SearchTests">
+        <methods>
+          <include name="openPage"/>
+          <include name="checkSearchResultsPO"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="closePage"/>
+        </methods>
+      </class> <!-- com.alevel.SearchTests -->
+      <class name="com.alevel.YTPageTest">
+        <methods>
+          <include name="openPage"/>
+          <include name="checkThatAfterClickOnTwitterSocIconOpensTwitterPage"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="closePage"/>
+        </methods>
+      </class> <!-- com.alevel.YTPageTest -->
+      <class name="com.alevel.CitySelectTest">
+        <methods>
+          <include name="checkThatUserCanSelectCityUsingCitySelectAtHeader"/>
+          <include name="openPage"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="closePage"/>
+        </methods>
+      </class> <!-- com.alevel.CitySelectTest -->
+      <class name="com.alevel.ViberPageTest">
+        <methods>
+          <include name="openPage"/>
+          <include name="checkThatAfterClickOnTwitterSocIconOpensTwitterPage"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="closePage"/>
+        </methods>
+      </class> <!-- com.alevel.ViberPageTest -->
+      <class name="com.alevel.OrderStatusPageTest">
+        <methods>
+          <include name="openPage"/>
+          <include name="setUp"/>
+          <include name="checkThatAfterLoginUserRedirectedToDetailPage"/>
+          <include name="tearDown"/>
+          <include name="closePage"/>
+        </methods>
+      </class> <!-- com.alevel.OrderStatusPageTest -->
+      <class name="com.alevel.IOSApplinkTest">
+        <methods>
+          <include name="openPage"/>
+          <include name="checkThatAfterClickOnIOSIconOpensAppStorePage"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="closePage"/>
+        </methods>
+      </class> <!-- com.alevel.IOSApplinkTest -->
+    </classes>
+  </test> <!-- Regression(failed) -->
+</suite> <!-- Failed suite [Suite1] -->

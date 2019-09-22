@@ -130,3 +130,5 @@
 2019-09-22 12:40:26 INFO  MainPage:102 - Text entered to search input '4QW16ES'
 2019-09-22 12:52:03 INFO  TestBase:51 - Opened page with url https://rozetka.com.ua/
 2019-09-22 12:59:38 INFO  TestBase:52 - Opened page with url https://rozetka.com.ua/
+2019-09-22 13:36:59 INFO  WebDriverManager:575 - Using chromedriver 76.0.3809.68 (since Google Chrome 76 is installed in your machine)
+2019-09-22 13:36:59 INFO  WebDriverManager:1052 - Exporting webdriver.chrome.driver as C:\Users\GSAPPS\.m2\repository\webdriver\chromedriver\win32\76.0.3809.68\chromedriver.exe
