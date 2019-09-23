@@ -1,9 +1,17 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
 
-<suite name="Suite1" verbose="1" >
+<!--<suite name="Suite1" verbose="1" >-->
+<!--    <test name="Regression" >-->
+<!--        <packages>-->
+<!--            <package name="com.alevel" />-->
+<!--        </packages>-->
+<!--    </test>-->
+<!--</suite>-->
+<suite name="Regression1">
     <test name="Regression" >
-        <packages>
-            <package name="com.alevel" />
-        </packages>
+    <classes>
+        <class name="com.alevel.AndroidAppLinkTest"></class>
+        <class name="com.alevel.CitySelectTest"></class>
+    </classes>
     </test>
 </suite>

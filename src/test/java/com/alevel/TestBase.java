@@ -3,16 +3,16 @@ package com.alevel;
 import com.alevel.config.EnvConfig;
 import com.alevel.helper.VerificationHelper;
 import com.alevel.helper.WaiterHelper;
+import com.alevel.listener.AllureListener;
 import com.alevel.web.ui.driver.WebDriverFactory;
+import io.qameta.allure.Step;
 import org.apache.log4j.Logger;
 import org.openqa.selenium.WebDriver;
-import org.testng.annotations.AfterMethod;
-import org.testng.annotations.AfterTest;
-import org.testng.annotations.BeforeMethod;
-import org.testng.annotations.BeforeTest;
+import org.testng.annotations.*;
 
 import java.util.concurrent.TimeUnit;
 
+@Listeners({AllureListener.class})
 public abstract class TestBase {
 
     private static final Logger LOGGER = Logger.getLogger(TestBase.class);
@@ -31,7 +31,16 @@ public abstract class TestBase {
     protected WaiterHelper waithelper;
 
     //перед всеми тестовыми методами
-    @BeforeTest
+//    @BeforeTest
+    @Step("Initializing {0} webdriver")
+    private void initWebDriver(String driverName){
+        driver = WebDriverFactory.getDriver(driverName);
+        driver.manage().timeouts().pageLoadTimeout(config.getTimeoutPageload(), TimeUnit.SECONDS);
+        driver.manage().timeouts().implicitlyWait(config.getTimeoutElemWait(), TimeUnit.SECONDS);
+    }
+
+    //Выполняется перед каждым методом помеченным аннотацией @Test
+    @BeforeMethod
     public void setUp() {
         config = new EnvConfig(System.getProperty("environment", "prod"));
 
@@ -39,29 +48,110 @@ public abstract class TestBase {
         driver.manage().timeouts().pageLoadTimeout(config.getTimeoutPageload(), TimeUnit.SECONDS);
         driver.manage().timeouts().implicitlyWait(config.getTimeoutElemWait(), TimeUnit.SECONDS);
         driver.manage().window().maximize();
-//        driver.get(config.getWebUrl());
 
+        AllureListener.setDriver(driver);
 
         helper = new VerificationHelper();
         waithelper = new WaiterHelper(driver);
+        openPage();
     }
 
-    //Выполняется перед каждым методом помеченным аннотацией @Test
-    @BeforeMethod
-    public void openPage(){
-//        LOGGER.info("Opened page with url " + config.getWebUrl());
+    public void openPage() {
         driver.get(config.getWebUrl());
     }
 
-    @AfterMethod
-    public void closePage(){
-        driver.quit();
+    @Step("Open page {0}")
+    private void openPage(String url){
+        LOGGER.info("Opened page with url " + url);
+        driver.get(url);
     }
 
-    @AfterTest
+    @AfterMethod
+    @Step("Closing webdriver")
     public void tearDown() {
         if (driver != null) {
             driver.quit();
         }
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

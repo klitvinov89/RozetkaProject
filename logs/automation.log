@@ -132,3 +132,68 @@
 2019-09-22 12:59:38 INFO  TestBase:52 - Opened page with url https://rozetka.com.ua/
 2019-09-22 13:36:59 INFO  WebDriverManager:575 - Using chromedriver 76.0.3809.68 (since Google Chrome 76 is installed in your machine)
 2019-09-22 13:36:59 INFO  WebDriverManager:1052 - Exporting webdriver.chrome.driver as C:\Users\GSAPPS\.m2\repository\webdriver\chromedriver\win32\76.0.3809.68\chromedriver.exe
+2019-09-23 11:06:00 INFO  WebDriverManager:575 - Using chromedriver 76.0.3809.68 (since Google Chrome 76 is installed in your machine)
+2019-09-23 11:06:00 INFO  WebDriverManager:1052 - Exporting webdriver.chrome.driver as C:\Users\GSAPPS\.m2\repository\webdriver\chromedriver\win32\76.0.3809.68\chromedriver.exe
+2019-09-23 11:06:48 INFO  WebDriverManager:575 - Using chromedriver 76.0.3809.68 (since Google Chrome 76 is installed in your machine)
+2019-09-23 11:06:48 INFO  WebDriverManager:1052 - Exporting webdriver.chrome.driver as C:\Users\GSAPPS\.m2\repository\webdriver\chromedriver\win32\76.0.3809.68\chromedriver.exe
+2019-09-23 11:58:14 INFO  WebDriverManager:575 - Using chromedriver 76.0.3809.68 (since Google Chrome 76 is installed in your machine)
+2019-09-23 11:58:14 INFO  WebDriverManager:1052 - Exporting webdriver.chrome.driver as C:\Users\GSAPPS\.m2\repository\webdriver\chromedriver\win32\76.0.3809.68\chromedriver.exe
+2019-09-23 14:23:49 INFO  WebDriverManager:575 - Using chromedriver 76.0.3809.68 (since Google Chrome 76 is installed in your machine)
+2019-09-23 14:23:49 INFO  WebDriverManager:1052 - Exporting webdriver.chrome.driver as C:\Users\GSAPPS\.m2\repository\webdriver\chromedriver\win32\76.0.3809.68\chromedriver.exe
+2019-09-23 14:36:39 INFO  WebDriverManager:575 - Using chromedriver 76.0.3809.68 (since Google Chrome 76 is installed in your machine)
+2019-09-23 14:36:39 INFO  WebDriverManager:1052 - Exporting webdriver.chrome.driver as C:\Users\GSAPPS\.m2\repository\webdriver\chromedriver\win32\76.0.3809.68\chromedriver.exe
+2019-09-23 14:37:24 INFO  WebDriverManager:575 - Using chromedriver 76.0.3809.68 (since Google Chrome 76 is installed in your machine)
+2019-09-23 14:37:24 INFO  WebDriverManager:1052 - Exporting webdriver.chrome.driver as C:\Users\GSAPPS\.m2\repository\webdriver\chromedriver\win32\76.0.3809.68\chromedriver.exe
+2019-09-23 14:38:38 INFO  WebDriverManager:575 - Using chromedriver 76.0.3809.68 (since Google Chrome 76 is installed in your machine)
+2019-09-23 14:38:38 INFO  WebDriverManager:1052 - Exporting webdriver.chrome.driver as C:\Users\GSAPPS\.m2\repository\webdriver\chromedriver\win32\76.0.3809.68\chromedriver.exe
+2019-09-23 14:42:30 INFO  WebDriverManager:575 - Using chromedriver 76.0.3809.68 (since Google Chrome 76 is installed in your machine)
+2019-09-23 14:42:30 INFO  WebDriverManager:1052 - Exporting webdriver.chrome.driver as C:\Users\GSAPPS\.m2\repository\webdriver\chromedriver\win32\76.0.3809.68\chromedriver.exe
+2019-09-23 14:42:34 INFO  WebDriverManager:575 - Using chromedriver 76.0.3809.68 (since Google Chrome 76 is installed in your machine)
+2019-09-23 14:42:34 INFO  WebDriverManager:1052 - Exporting webdriver.chrome.driver as C:\Users\GSAPPS\.m2\repository\webdriver\chromedriver\win32\76.0.3809.68\chromedriver.exe
+2019-09-23 15:05:15 INFO  WebDriverManager:575 - Using chromedriver 76.0.3809.68 (since Google Chrome 76 is installed in your machine)
+2019-09-23 15:05:15 INFO  WebDriverManager:1052 - Exporting webdriver.chrome.driver as C:\Users\GSAPPS\.m2\repository\webdriver\chromedriver\win32\76.0.3809.68\chromedriver.exe
+2019-09-23 15:05:21 INFO  TestBase:64 - Opened page with url https://rozetka.com.ua/
+2019-09-23 15:24:47 INFO  WebDriverManager:575 - Using chromedriver 76.0.3809.68 (since Google Chrome 76 is installed in your machine)
+2019-09-23 15:24:47 INFO  WebDriverManager:1052 - Exporting webdriver.chrome.driver as C:\Users\GSAPPS\.m2\repository\webdriver\chromedriver\win32\76.0.3809.68\chromedriver.exe
+2019-09-23 15:24:53 INFO  TestBase:64 - Opened page with url https://rozetka.com.ua/
+2019-09-23 15:34:58 INFO  WebDriverManager:575 - Using chromedriver 76.0.3809.68 (since Google Chrome 76 is installed in your machine)
+2019-09-23 15:34:58 INFO  WebDriverManager:1052 - Exporting webdriver.chrome.driver as C:\Users\GSAPPS\.m2\repository\webdriver\chromedriver\win32\76.0.3809.68\chromedriver.exe
+2019-09-23 15:36:39 INFO  WebDriverManager:575 - Using chromedriver 76.0.3809.68 (since Google Chrome 76 is installed in your machine)
+2019-09-23 15:36:39 INFO  WebDriverManager:1052 - Exporting webdriver.chrome.driver as C:\Users\GSAPPS\.m2\repository\webdriver\chromedriver\win32\76.0.3809.68\chromedriver.exe
+2019-09-23 15:36:53 INFO  TestBase:67 - Opened page with url https://rozetka.com.ua/
+2019-09-23 15:37:07 INFO  WebDriverManager:575 - Using chromedriver 76.0.3809.68 (since Google Chrome 76 is installed in your machine)
+2019-09-23 15:37:07 INFO  WebDriverManager:1052 - Exporting webdriver.chrome.driver as C:\Users\GSAPPS\.m2\repository\webdriver\chromedriver\win32\76.0.3809.68\chromedriver.exe
+2019-09-23 15:37:21 INFO  TestBase:67 - Opened page with url https://rozetka.com.ua/
+2019-09-23 16:10:30 INFO  WebDriverManager:575 - Using chromedriver 76.0.3809.68 (since Google Chrome 76 is installed in your machine)
+2019-09-23 16:10:30 INFO  WebDriverManager:1052 - Exporting webdriver.chrome.driver as C:\Users\GSAPPS\.m2\repository\webdriver\chromedriver\win32\76.0.3809.68\chromedriver.exe
+2019-09-23 16:11:41 INFO  WebDriverManager:575 - Using chromedriver 76.0.3809.68 (since Google Chrome 76 is installed in your machine)
+2019-09-23 16:11:41 INFO  WebDriverManager:1052 - Exporting webdriver.chrome.driver as C:\Users\GSAPPS\.m2\repository\webdriver\chromedriver\win32\76.0.3809.68\chromedriver.exe
+2019-09-23 16:12:46 INFO  WebDriverManager:575 - Using chromedriver 76.0.3809.68 (since Google Chrome 76 is installed in your machine)
+2019-09-23 16:12:46 INFO  WebDriverManager:1052 - Exporting webdriver.chrome.driver as C:\Users\GSAPPS\.m2\repository\webdriver\chromedriver\win32\76.0.3809.68\chromedriver.exe
+2019-09-23 16:14:28 INFO  WebDriverManager:575 - Using chromedriver 76.0.3809.68 (since Google Chrome 76 is installed in your machine)
+2019-09-23 16:14:28 INFO  WebDriverManager:1052 - Exporting webdriver.chrome.driver as C:\Users\GSAPPS\.m2\repository\webdriver\chromedriver\win32\76.0.3809.68\chromedriver.exe
+2019-09-23 16:20:15 INFO  WebDriverManager:575 - Using chromedriver 76.0.3809.68 (since Google Chrome 76 is installed in your machine)
+2019-09-23 16:20:15 INFO  WebDriverManager:1052 - Exporting webdriver.chrome.driver as C:\Users\GSAPPS\.m2\repository\webdriver\chromedriver\win32\76.0.3809.68\chromedriver.exe
+2019-09-23 16:39:07 INFO  WebDriverManager:575 - Using chromedriver 76.0.3809.68 (since Google Chrome 76 is installed in your machine)
+2019-09-23 16:39:07 INFO  WebDriverManager:1052 - Exporting webdriver.chrome.driver as C:\Users\GSAPPS\.m2\repository\webdriver\chromedriver\win32\76.0.3809.68\chromedriver.exe
+2019-09-23 16:42:11 INFO  WebDriverManager:575 - Using chromedriver 76.0.3809.68 (since Google Chrome 76 is installed in your machine)
+2019-09-23 16:42:11 INFO  WebDriverManager:1052 - Exporting webdriver.chrome.driver as C:\Users\GSAPPS\.m2\repository\webdriver\chromedriver\win32\76.0.3809.68\chromedriver.exe
+2019-09-23 16:52:37 INFO  WebDriverManager:575 - Using chromedriver 76.0.3809.68 (since Google Chrome 76 is installed in your machine)
+2019-09-23 16:52:37 INFO  WebDriverManager:1052 - Exporting webdriver.chrome.driver as C:\Users\GSAPPS\.m2\repository\webdriver\chromedriver\win32\76.0.3809.68\chromedriver.exe
+2019-09-23 16:56:33 INFO  WebDriverManager:575 - Using chromedriver 76.0.3809.68 (since Google Chrome 76 is installed in your machine)
+2019-09-23 16:56:33 INFO  WebDriverManager:1052 - Exporting webdriver.chrome.driver as C:\Users\GSAPPS\.m2\repository\webdriver\chromedriver\win32\76.0.3809.68\chromedriver.exe
+2019-09-23 16:56:43 INFO  TestBase:87 - Opened page with url https://rozetka.com.ua/
+2019-09-23 17:18:27 INFO  WebDriverManager:575 - Using chromedriver 76.0.3809.68 (since Google Chrome 76 is installed in your machine)
+2019-09-23 17:18:27 INFO  WebDriverManager:1052 - Exporting webdriver.chrome.driver as C:\Users\GSAPPS\.m2\repository\webdriver\chromedriver\win32\76.0.3809.68\chromedriver.exe
+2019-09-23 17:18:52 INFO  WebDriverManager:575 - Using chromedriver 76.0.3809.68 (since Google Chrome 76 is installed in your machine)
+2019-09-23 17:18:52 INFO  WebDriverManager:1052 - Exporting webdriver.chrome.driver as C:\Users\GSAPPS\.m2\repository\webdriver\chromedriver\win32\76.0.3809.68\chromedriver.exe
+2019-09-23 17:19:07 INFO  WebDriverManager:575 - Using chromedriver 76.0.3809.68 (since Google Chrome 76 is installed in your machine)
+2019-09-23 17:19:07 INFO  WebDriverManager:1052 - Exporting webdriver.chrome.driver as C:\Users\GSAPPS\.m2\repository\webdriver\chromedriver\win32\76.0.3809.68\chromedriver.exe
+2019-09-23 17:26:53 INFO  WebDriverManager:575 - Using chromedriver 76.0.3809.68 (since Google Chrome 76 is installed in your machine)
+2019-09-23 17:26:53 INFO  WebDriverManager:1052 - Exporting webdriver.chrome.driver as C:\Users\GSAPPS\.m2\repository\webdriver\chromedriver\win32\76.0.3809.68\chromedriver.exe
+2019-09-23 17:27:08 INFO  WebDriverManager:575 - Using chromedriver 76.0.3809.68 (since Google Chrome 76 is installed in your machine)
+2019-09-23 17:27:08 INFO  WebDriverManager:1052 - Exporting webdriver.chrome.driver as C:\Users\GSAPPS\.m2\repository\webdriver\chromedriver\win32\76.0.3809.68\chromedriver.exe
+2019-09-23 17:29:54 INFO  WebDriverManager:575 - Using chromedriver 76.0.3809.68 (since Google Chrome 76 is installed in your machine)
+2019-09-23 17:29:54 INFO  WebDriverManager:1052 - Exporting webdriver.chrome.driver as C:\Users\GSAPPS\.m2\repository\webdriver\chromedriver\win32\76.0.3809.68\chromedriver.exe
+2019-09-23 17:30:09 INFO  WebDriverManager:575 - Using chromedriver 76.0.3809.68 (since Google Chrome 76 is installed in your machine)
+2019-09-23 17:30:09 INFO  WebDriverManager:1052 - Exporting webdriver.chrome.driver as C:\Users\GSAPPS\.m2\repository\webdriver\chromedriver\win32\76.0.3809.68\chromedriver.exe

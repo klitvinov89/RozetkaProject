@@ -1,0 +1,1 @@
+{"uuid":"388493ed-ecfb-4495-bdfb-f7db5344342d","name":"test-automation","start":1569242098035,"stop":1569242123985,"children":["78e35d07-8188-4d01-b32d-d6fe31089e9e","65371bd0-b6a5-47a1-a5f8-75ef1bf181d0"],"befores":[{"name":"setUp","stage":"finished","description":"","start":1569242098068,"stop":1569242123664}]}
