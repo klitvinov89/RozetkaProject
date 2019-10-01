@@ -1,0 +1,223 @@
+<html>
+<head>
+<title>TestNG:  Regression</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Regression</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>12/2/0</td>
+</tr><tr>
+<td>Started on:</td><td>Mon Sep 23 17:36:16 EEST 2019</td>
+</tr>
+<tr><td>Total time:</td><td>303 seconds (303878 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-failed'>
+<tr><td colspan='4' align='center'><b>FAILED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.alevel.OrderStatusPageTest.checkThatAfterLoginUserRedirectedToDetailPage()'><b>checkThatAfterLoginUserRedirectedToDetailPage</b><br>Test class: com.alevel.OrderStatusPageTest</td>
+<td><div><pre>java.lang.AssertionError: expected [true] but found [false]
+	at com.alevel.OrderStatusPageTest.checkThatAfterLoginUserRedirectedToDetailPage(OrderStatusPageTest.java:18)
+... Removed 28 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace108368935", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace108368935'><pre>java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:96)
+	at org.testng.Assert.failNotEquals(Assert.java:776)
+	at org.testng.Assert.assertTrue(Assert.java:44)
+	at org.testng.Assert.assertTrue(Assert.java:54)
+	at com.alevel.OrderStatusPageTest.checkThatAfterLoginUserRedirectedToDetailPage(OrderStatusPageTest.java:18)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+	at org.testng.TestNG.runSuites(TestNG.java:1049)
+	at org.testng.TestNG.run(TestNG.java:1017)
+	at org.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:73)
+	at org.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:123)
+</pre></div></td>
+<td>11</td>
+<td>com.alevel.OrderStatusPageTest@ee48e0e</td></tr>
+<tr>
+<td title='com.alevel.LoginTest.checkUserLoginUsingPopUp()'><b>checkUserLoginUsingPopUp</b><br>Test class: com.alevel.LoginTest</td>
+<td><div><pre>java.lang.AssertionError: expected [true] but found [false]
+	at com.alevel.LoginTest.checkUserLoginUsingPopUp(LoginTest.java:18)
+... Removed 28 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace-1961442218", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace-1961442218'><pre>java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:96)
+	at org.testng.Assert.failNotEquals(Assert.java:776)
+	at org.testng.Assert.assertTrue(Assert.java:44)
+	at org.testng.Assert.assertTrue(Assert.java:54)
+	at com.alevel.LoginTest.checkUserLoginUsingPopUp(LoginTest.java:18)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+	at org.testng.TestNG.runSuites(TestNG.java:1049)
+	at org.testng.TestNG.run(TestNG.java:1017)
+	at org.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:73)
+	at org.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:123)
+</pre></div></td>
+<td>0</td>
+<td>com.alevel.LoginTest@af0964f4</td></tr>
+</table><p>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.alevel.SearchTests.checkSearchResultsPO()'><b>checkSearchResultsPO</b><br>Test class: com.alevel.SearchTests<br>Parameters: ноутбук asus</td>
+<td></td>
+<td>21</td>
+<td>com.alevel.SearchTests@c1f3f5ce</td></tr>
+<tr>
+<td title='com.alevel.SearchTests.checkSearchResultsPO()'><b>checkSearchResultsPO</b><br>Test class: com.alevel.SearchTests<br>Parameters: 4QW16ES</td>
+<td></td>
+<td>18</td>
+<td>com.alevel.SearchTests@c1f3f5ce</td></tr>
+<tr>
+<td title='com.alevel.AndroidAppLinkTest.checkThatAfterClickOnAndroidIconOpensGoogleMarketPage()'><b>checkThatAfterClickOnAndroidIconOpensGoogleMarketPage</b><br>Test class: com.alevel.AndroidAppLinkTest</td>
+<td></td>
+<td>15</td>
+<td>com.alevel.AndroidAppLinkTest@5c07fcd5</td></tr>
+<tr>
+<td title='com.alevel.FBSocIconTest.checkThatAfterClickOnFBSocIconOpensFBPage()'><b>checkThatAfterClickOnFBSocIconOpensFBPage</b><br>Test class: com.alevel.FBSocIconTest</td>
+<td></td>
+<td>4</td>
+<td>com.alevel.FBSocIconTest@9d3cc743</td></tr>
+<tr>
+<td title='com.alevel.IOSApplinkTest.checkThatAfterClickOnIOSIconOpensAppStorePage()'><b>checkThatAfterClickOnIOSIconOpensAppStorePage</b><br>Test class: com.alevel.IOSApplinkTest</td>
+<td></td>
+<td>15</td>
+<td>com.alevel.IOSApplinkTest@92f20a20</td></tr>
+<tr>
+<td title='com.alevel.InstaPageTest.checkThatAfterClickOnInstagramSocIconOpensInstagramPage()'><b>checkThatAfterClickOnInstagramSocIconOpensInstagramPage</b><br>Test class: com.alevel.InstaPageTest</td>
+<td></td>
+<td>4</td>
+<td>com.alevel.InstaPageTest@ac5566a5</td></tr>
+<tr>
+<td title='com.alevel.TwitterSocIconTest.checkThatAfterClickOnTwitterSocIconOpensTwitterPage()'><b>checkThatAfterClickOnTwitterSocIconOpensTwitterPage</b><br>Test class: com.alevel.TwitterSocIconTest</td>
+<td></td>
+<td>2</td>
+<td>com.alevel.TwitterSocIconTest@b55ced2d</td></tr>
+<tr>
+<td title='com.alevel.ViberPageTest.checkThatAfterClickOnTwitterSocIconOpensTwitterPage()'><b>checkThatAfterClickOnTwitterSocIconOpensTwitterPage</b><br>Test class: com.alevel.ViberPageTest</td>
+<td></td>
+<td>3</td>
+<td>com.alevel.ViberPageTest@1f8136c9</td></tr>
+<tr>
+<td title='com.alevel.YTPageTest.checkThatAfterClickOnTwitterSocIconOpensTwitterPage()'><b>checkThatAfterClickOnTwitterSocIconOpensTwitterPage</b><br>Test class: com.alevel.YTPageTest</td>
+<td></td>
+<td>4</td>
+<td>com.alevel.YTPageTest@de3ae302</td></tr>
+<tr>
+<td title='com.alevel.PhonesPopupTest.checkThatPonePopupOpenedAfterClick()'><b>checkThatPonePopupOpenedAfterClick</b><br>Test class: com.alevel.PhonesPopupTest</td>
+<td></td>
+<td>0</td>
+<td>com.alevel.PhonesPopupTest@47a03d14</td></tr>
+<tr>
+<td title='com.alevel.LanguageSwitchTest.checkThatRuLanguageIsInactiveAfterUaLanguageClick()'><b>checkThatRuLanguageIsInactiveAfterUaLanguageClick</b><br>Test class: com.alevel.LanguageSwitchTest</td>
+<td></td>
+<td>2</td>
+<td>com.alevel.LanguageSwitchTest@16fac23f</td></tr>
+<tr>
+<td title='com.alevel.CitySelectTest.checkThatUserCanSelectCityUsingCitySelectAtHeader()'><b>checkThatUserCanSelectCityUsingCitySelectAtHeader</b><br>Test class: com.alevel.CitySelectTest</td>
+<td></td>
+<td>0</td>
+<td>com.alevel.CitySelectTest@c83b4f2c</td></tr>
+</table><p>
+</body>
+</html>

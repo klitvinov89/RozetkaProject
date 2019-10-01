@@ -1,0 +1,1 @@
+{"uuid":"a6e2d56f-a5cd-4ee1-8ac8-472e0ea177ac","name":"com.alevel.TestBase.setUp","description":"","start":1569249556662,"stop":1569249569946,"children":["bfa4a5dd-015d-4e87-90ea-a54427aa2257"],"befores":[{"name":"setUp","stage":"finished","description":"","start":1569249556662,"stop":1569249569946}]}
